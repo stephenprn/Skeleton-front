@@ -1,6 +1,7 @@
-# SkeletonFront
+#  Articles publisher (front)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
+This is the front project associated with https://github.com/stephenprn/articles-publisher-back
 
 ## Heroku commands
 
@@ -11,6 +12,7 @@ $ git add .
 $ git commit -am "make it better"
 $ git push heroku master
 ```
+
 ### Cancel current build
 ```
 heroku builds:cancel
